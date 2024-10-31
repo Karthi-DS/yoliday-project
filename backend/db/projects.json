@@ -1,0 +1,185 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Exploring the Universe",
+      "author": "Alice Smith",
+      "image": "/image1.png",
+      "content": "A deep dive into the mysteries of space and our universe.",
+      "company": "Galactic Ventures",
+      "input": {
+      }
+    },
+    {
+      "id": 2,
+      "title": "Astrophysics Uncovered",
+      "author": "Eve Carter",
+      "image": "/image1.png",
+      "content": "Understanding the fundamental laws of the cosmos.",
+      "company": "Galactic Ventures",
+      "input": {}
+    },
+    {
+      "id": 3,
+      "title": "Space Exploration History",
+      "author": "John Doe",
+      "image": "/image1.png",
+      "content": "A look back at the greatest achievements in space exploration.",
+      "company": "Galactic Ventures",
+      "input": {}
+    },
+    {
+      "id": 4,
+      "title": "The Future of Space Travel",
+      "author": "Mary Johnson",
+      "image": "/image1.png",
+      "content": "What the next decade holds for humanity in space.",
+      "company": "Galactic Ventures",
+      "input": {}
+    },
+    {
+      "id": 5,
+      "title": "Cosmic Phenomena",
+      "author": "Peter Brown",
+      "image": "/image1.png",
+      "content": "Exploring the wonders of black holes and neutron stars.",
+      "company": "Galactic Ventures",
+      "input": {}
+    },
+    {
+      "id": 6,
+      "title": "The Beauty of Nature",
+      "author": "Bob Johnson",
+      "image": "/image2.png",
+      "content": "An exploration of the natural wonders around us.",
+      "company": "Nature's Wonders",
+      "input": {}
+    },
+    {
+      "id": 7,
+      "title": "Wildlife Conservation",
+      "author": "Lisa White",
+      "image": "/image2.png",
+      "content": "The importance of preserving wildlife habitats.",
+      "company": "Nature's Wonders",
+      "input": {}
+    },
+    {
+      "id": 8,
+      "title": "Breathtaking Landscapes",
+      "author": "James Green",
+      "image": "/image2.png",
+      "content": "A photographic journey through the world's most beautiful places.",
+      "company": "Nature's Wonders",
+      "input": {}
+    },
+    {
+      "id": 9,
+      "title": "Flora and Fauna",
+      "author": "Emma Williams",
+      "image": "/image2.png",
+      "content": "Understanding the diversity of plant and animal life.",
+      "company": "Nature's Wonders",
+      "input": {}
+    },
+    {
+      "id": 10,
+      "title": "The Ocean's Secrets",
+      "author": "Oliver Miller",
+      "image": "/image2.png",
+      "content": "Exploring the mysteries of ocean life.",
+      "company": "Nature's Wonders",
+      "input": {}
+    },
+    {
+      "id": 11,
+      "title": "Tech Innovations",
+      "author": "David Lee",
+      "image": "/image3.png",
+      "content": "A look at the latest breakthroughs in technology.",
+      "company": "Tech Innovations Inc.",
+      "input": {}
+    },
+    {
+      "id": 12,
+      "title": "The Rise of AI",
+      "author": "Sophia Kim",
+      "image": "/image3.png",
+      "content": "How artificial intelligence is shaping our future.",
+      "company": "Tech Innovations Inc.",
+      "input": {}
+    },
+    {
+      "id": 13,
+      "title": "Blockchain Explained",
+      "author": "Lucas White",
+      "image": "/image3.png",
+      "content": "Understanding the technology behind cryptocurrencies.",
+      "company": "Tech Innovations Inc.",
+      "input": {}
+    },
+    {
+      "id": 14,
+      "title": "The Internet of Things",
+      "author": "Mia Brown",
+      "image": "/image3.png",
+      "content": "Connecting devices to create smarter homes.",
+      "company": "Tech Innovations Inc.",
+      "input": {}
+    },
+    {
+      "id": 15,
+      "title": "Future Tech Trends",
+      "author": "Elijah Johnson",
+      "image": "/image3.png",
+      "content": "Predictions for the next decade of technology.",
+      "company": "Tech Innovations Inc.",
+      "input": {}
+    },
+    {
+      "id": 16,
+      "title": "Culinary Adventures",
+      "author": "Emily Davis",
+      "image": "/image4.png",
+      "content": "Discovering unique recipes from around the world.",
+      "company": "Culinary Creations",
+      "input": {}
+    },
+    {
+      "id": 17,
+      "title": "The Art of Cooking",
+      "author": "Chloe Clark",
+      "image": "/image4.png",
+      "content": "Mastering the skills of culinary arts.",
+      "company": "Culinary Creations",
+      "input": {}
+    },
+    {
+      "id": 18,
+      "title": "Gourmet Recipes",
+      "author": "William Harris",
+      "image": "/image4.png",
+      "content": "Elevating everyday meals to gourmet status.",
+      "company": "Culinary Creations",
+      "input": {}
+    },
+    {
+      "id": 19,
+      "title": "Healthy Eating",
+      "author": "Ava Lee",
+      "image": "/image4.png",
+      "content": "Creating nutritious meals without sacrificing flavor.",
+      "company": "Culinary Creations",
+      "input": {}
+    },
+    {
+      "id": 20,
+      "title": "Food from Around the World",
+      "author": "James Wilson",
+      "image": "/image4.png",
+      "content": "Exploring culinary traditions from different cultures.",
+      "company": "Culinary Creations",
+      "input": {}
+    }
+  ]
+}
