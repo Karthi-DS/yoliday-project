@@ -1,1 +1,1 @@
-print("Hello karthi pull this using -pull command.")
+print("Hello karthi")
