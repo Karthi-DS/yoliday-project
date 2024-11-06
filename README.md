@@ -1,2 +1,0 @@
-# YolidayProject
-Yoliday LLP project
